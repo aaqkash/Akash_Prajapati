@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a highly motivated and enthusiastic computer science student currently in my semi-final year of the M.Tech integrated program. I am passionate about the dynamic world of technology and constantly strive to expand my knowledge and skills in this ever-evolving field.</p>
+<p align="left">I'm a computer science student in my semi-final year of the M.Tech (Integrated) program at NIET, Greater Noida.</p>
 
 ###
 
@@ -10,7 +10,14 @@
 
 ###
 
-<p align="left">🎓 Pursuing an M.Tech (Integrated) in Computer Science from NIET.<br>📚 Strong foundation in core computer science concepts, including  data structures, algorithms, and programming languages such as Python, JAVA, JavaScript, Kotlin.<br>💡 Keen interest in emerging technologies like Artificial Intelligence, Machine Learning, and Data Science.<br>🌐 Skilled in problem-solving and critical thinking, with the ability to transform challenges into potential opportunities.<br>🛠️ Skills:<br>💻 Proficient in Python, Web Development, UI/UX.<br>📊 Data-driven decision-maker with a knack for data analysis and visualization.<br>🧠 Quick learner with a passion for staying updated on the latest industry trends.</p>
+<p align="left">
+• My strong foundation includes core computer science concepts like data structures, algorithms, and proficiency in Python, JAVA, JavaScript, Kotlin.
+<br>
+• I'm passionate about emerging tech like Artificial Intelligence, Machine Learning, and Data Science and quick learner staying updated on industry trends.
+<br>
+• Skilled in Problem-Solving, Python, Web Development, Machine Learning and UI/UX.
+<br>
+• Actively seeking opportunities in internships, junior developer roles, or any exciting tech opportunity to grow professionally. Ready for the next step in my career!</p>
 
 ###
 
